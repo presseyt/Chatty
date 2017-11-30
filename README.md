@@ -4,7 +4,7 @@ Chatty allows users to communicate with each other without having to register ac
 
 ## Final Product
 
-!["screenshot"](#)
+!["screenshot"](https://github.com/presseyt/react-simple-boilerplate/blob/master/docs/Chatty%20Screenshot.png?raw=true)
 
 ## Technical Specs
 
